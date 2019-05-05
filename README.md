@@ -35,5 +35,5 @@ animgif takes three argument
 
 Example: `animgif myclip.mp4 myclip-gifs 45%`
 
-This command will produce GIFs from myclip.mp4 and create a myglip-gifs folder. This folder will contain the animated GIFs. 
+This command will produce GIFs from myclip.mp4 and create a myclip-gifs folder. This folder will contain the animated GIFs. 
 The size of the GIFs will 45% of the input clip.
