@@ -1,4 +1,10 @@
 # How I produce animated GIFs for my BDSMlr blog
+---
+**NOTE**
+
+This process requires a Linux shell and will therefore only work on Linux based systems. If you have a solution for other systems, you are welcome to contribute. You  can contact me via wendyslutwhore@gmail.com
+
+---
 
 ## Involved tools
 - kdenlive for video editing - https://kdenlive.org
@@ -28,5 +34,6 @@ animgif takes three argument
     - You will need to tinker with the scaling to find the best tradeoff between size and quality.
 
 Example: `animgif myclip.mp4 myclip-gifs 45%`
+
 This command will produce GIFs from myclip.mp4 and create a myglip-gifs folder. This folder will contain the animated GIFs. 
 The size of the GIFs will 45% of the input clip.
