@@ -16,7 +16,7 @@
     - See below for usage
   
 ## Usage of animgif
-animgif is a Linux shell script, which makes use of ffmpeg and ImageMagick. You need to have those packages installed if you want to use animgif. Find the animgif script in the source of this project.
+animgif is a Linux shell script, which makes use of ffmpeg and ImageMagick. You need to have those packages installed if you want to use animgif. Find the animgif script [here](animgif.sh).
 
 animgif takes three argument
 1. The input file - This is the video clip rendered by kdenlive
